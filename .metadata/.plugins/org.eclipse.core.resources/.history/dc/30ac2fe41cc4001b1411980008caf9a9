@@ -1,0 +1,34 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<div class="app__footer">
+	<div class="footer__container wide-screen">
+		<div class="footer1">thinkpro</div>
+		<div class="footer2">
+			<h3 class="footer2-title">Công ty TNHH Công nghệ Think Việt Nam
+			</h3>
+			<p>Số ĐKKD 0107273909 do Sở KHĐT Thành phố Hà Nội cấp ngày
+				30/12/2015</p>
+			<p>Người đại diện: Trần Văn Long</p>
+			<p>Địa chỉ: Số 105/562 Đường Láng, P.Láng Hạ, Q.Đống Đa, TP.Hà
+				Nội</p>
+			<p>Copyright © 2018 Think Vietnam. All Rights Reserved. Designed
+				by firefly.vn</p>
+		</div>
+		<div class="footer3">
+			<h3 class="footer3-title">HỆ THỐNG CỬA HÀNG</h3>
+			<ul>
+				<a href="">
+					<li>TP HCM: Số 62 Duy Tân, Phường 15, Q.Phú Nhuận, TP HCM</li>
+				</a>
+				<a href="">
+					<li>Hà Nội: Số 105 ngõ 562 đường Láng, P. Láng Hạ, Q. Đống Đa,
+						Hà Nội</li>
+				</a>
+				<a href="">
+					<li>Hà Nội: 69 Phố Vọng, Phường Đồng Tâm, Quận Hai Bà Trưng,
+						TP.Hà Nội</li>
+				</a>
+			</ul>
+		</div>
+	</div>
+</div>

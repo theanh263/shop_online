@@ -1,0 +1,54 @@
+#detail-page .main-info {
+  display: flex;
+  margin-bottom: 32px;
+}
+
+#detail-page .main-info .image-container {
+  width: 50%;
+  border: 1px solid rgb(230, 230, 230);
+}
+
+#detail-page .main-info .image-container img {
+  width: 100%;
+  aspect-ratio: 1.4;
+  object-fit: cover;
+}
+
+#detail-page .main-info .main-info-detail {
+  padding: 12px 24px;
+
+}
+
+#detail-page .main-info .main-info-detail h5 {
+  margin: 21px 0px;
+  opacity: .9;
+
+}
+
+#detail-page .main-info .main-info-detail h3 {
+  color: rgb(248, 70, 70);
+}
+
+#detail-page .main-info .main-info-detail form {
+	display: inline-block
+}
+#detail-page .main-info .main-info-detail button {
+  width: 120px;
+  height: 60px;
+  margin-top: 12px;
+  font-size: 1.2rem;
+  border: none;
+  background: var(--primary-color-2);
+  color: white;
+  cursor: pointer;
+  font-family: var(--primary-font);
+  font-weight: 450;
+  margin-right: 8px;
+  outline: none;
+  border: none;
+}
+
+#detail-page .main-info .main-info-detail button:hover {
+  background: var(--primary-color);
+  transition: ease .3s;
+}

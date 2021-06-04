@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    font-size: 14px;
+}
+@keyframes appear{
+    from{
+        opacity: 0%;
+    }
+    to{
+        opacity: 100%
+    }
+}
+@keyframes appear{
+    from{
+        opacity: 0%;
+    }
+    to{
+        opacity: 100%;
+    }
+}
+@keyframes slide{
+    from{
+        transform: translateX(100%);
+    }
+    to{
+        transform: translateX(0%);
+    }
+}
+
+.breadcrumb {
+    margin-top: 12px;
+}
+
+.main__ads img {
+    width: 100%;
+    aspect-ratio: 3;
+    object-fit: cover;
+    margin-top: 12px;
+}
+
+h3 {
+	font-size: 1.5rem !important
+}
+
+.logo {
+	width: 200px;
+	padding: 12px;
+}
+
+button {
+    outline: none;
+}
+
+li {
+	list-style-type: none !important;
+}
+
+p {
+    font-size: 1rem;
+}
+
+.desc-container p, .desc-container span {
+	font-size: 1.3rem
+}
+:root {
+    --primary-color: #27bece;
+    --primary-font: "Roboto", sans-serif;
+    --text-color: #666;
+    --text-bold-color: #424242;
+    --button-background-color: #e7edf1;
+    --border-color: rgba(0, 0, 0, 0.05);
+    --primary-color-2: #1b283e;
+}
